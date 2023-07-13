@@ -1,6 +1,3 @@
 # Java
 java course
-# mohamed
-## khaled
-### elkady
-#### man city
+##### Mohamed Khaled Elkady
